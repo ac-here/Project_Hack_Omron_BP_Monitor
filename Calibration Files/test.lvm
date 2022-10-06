@@ -1,0 +1,31 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	No
+X_Columns	No
+Time_Pref	Absolute
+Operator	anand
+Date	2020/11/12
+Time	11:41:04.7718510627746582031
+***End_of_Header***	
+	
+Channels	2		
+Samples	1	1	
+Date	2020/11/12	2020/11/12	
+Time	11:41:04.7718510627746582031	11:41:04.7718510627746582031	
+X_Dimension	Time	Time	
+X0	0.0000000000000000E+0	0.0000000000000000E+0	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	-0.595741	0.000000
+	-0.519651	0.000000
+	-0.558093	0.000000
+	-0.540479	0.000000
+	-0.492360	0.000000
+	-0.489570	0.000000
+	-0.410086	0.000000
+	-0.447363	0.000000
+	-0.426494	0.000000
